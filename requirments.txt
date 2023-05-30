@@ -1,0 +1,8 @@
+websocket-client
+delorean
+rich
+requests
+ndg-httpsclient
+pyopenssl
+pyasn1
+asyncio
