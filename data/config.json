@@ -1,45 +1,45 @@
 {
-    "guild": "923162017035083776",
-    "update_bio": false,
+    "guild": "1161404153994690713",
+    "update_bio": true,
     "update_status": true,
     "voice": false,
     "status": {
-        "normal": 75,
-        "playing": 15,
-        "spotify": 5,
+        "normal": 20,
+        "playing": 25,
+        "spotify": 50,
         "visual_studio": 5
     },
     "custom_status": {
-        "yes": 35,
-        "no": 65
+        "yes": 100,
+        "no": 0
     },
     "join_voice": {
         "yes": 0,
         "no": 100
     },
     "livestream": {
-        "yes": 0,
-        "no": 100
+        "yes": 100,
+        "no": 0
     },
     "random_bio": {
-        "yes": 60,
-        "no": 40
+        "yes": 100,
+        "no": 0
     },
     "vcs": [
         "IF ANY VC PUT ID",
         "IF ANY VC PUT ID"
     ],
     "games": {
-        "Battlerite": 10,
+        "Roblox": 10,
         "League of Legends": 10,
         "PLAYERUNKNOWN'S BATTLEGROUNDS": 10,
         "Counter-Strike: Global Offensive": 10,
-        "Overwatch": 10,
+        "Overwatch 2": 10,
         "Minecraft": 15,
-        "World of Warcraft": 5,
+        "Call Of Duty: MW3": 5,
         "Grand Theft Auto V": 10,
         "Tom Clancy's Rainbow Six Siege": 10,
-        "Rocket League": 10
+        ".gg/grapes": 10
     },
     "visual_studio": {
         "images": {
@@ -59,11 +59,11 @@
         "names": [
             "main.py",
             "bot.py",
-            "index.js",
-            "run.js",
-            "install.py",
-            "install.js",
-            "discord.js",
+            "rutless.js",
+            "gg/grapes.js",
+            "grapes.py",
+            "grapes.js",
+            ".gg/grapes.js",
             "main.py",
             "script.js",
             "nowon.py"
